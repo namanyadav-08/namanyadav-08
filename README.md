@@ -99,8 +99,8 @@ const naman = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [RxNorm](https://github.com/namanyadav-08/rxnorm) | Agentic AI prescription assistant for doctors | MERN, LLM, RxNorm API |
-| [CareCircle](https://github.com/namanyadav-08/CareCircle) | Primary caregiver support platform — social worker connect, community support & routine analysis | Swift, Node.js |
+| [RxNorm]([https://github.com/namanyadav-08/Rx-norm-]) | Agentic AI prescription assistant for doctors | MERN, LLM, RxNorm API |
+| [CareCircle]([https://github.com/namanyadav-08/CareCircle]) | Primary caregiver support platform — social worker connect, community support & routine analysis | Swift, Node.js |
 | [StockIQ](https://github.com/namanyadav-08/StockIQ) | Real-time stock price prediction using live market data | Python, React |
 
 ---
