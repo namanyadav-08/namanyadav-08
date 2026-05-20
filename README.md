@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28052390/README.md)
-
+[README-2.md](https://github.com/user-attachments/files/28052473/README-2.md)
 <div align="center">
 
 ```
@@ -100,10 +99,9 @@ const naman = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [SmartStudy](https://github.com/namanyadav-08/SmartStudy) | AI-assisted study platform | React, Node, MongoDB |
-| [StockIQ](https://github.com/namanyadav-08/StockIQ) | Stock analysis tool | Python, React |
-| [CareCircle](https://github.com/namanyadav-08/CareCircle) | Healthcare connect app | Swift, Node |
-| [Smart-study-scheduler](https://github.com/namanyadav-08/Smart-study-scheduler) | Automated study planner | JavaScript |
+| [RxNorm](https://github.com/namanyadav-08/rxnorm) | Agentic AI prescription assistant for doctors | MERN, LLM, RxNorm API |
+| [CareCircle](https://github.com/namanyadav-08/CareCircle) | Primary caregiver support platform — social worker connect, community support & routine analysis | Swift, Node.js |
+| [StockIQ](https://github.com/namanyadav-08/StockIQ) | Real-time stock price prediction using live market data | Python, React |
 
 ---
 
