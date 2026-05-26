@@ -23,7 +23,7 @@
 I'm a Computer Science student at **Jabalpur Engineering College** who builds full-stack web apps and is currently diving deep into **Generative AI integration** with real products.
 
 - Full-stack MERN developer with hands-on backend experience
-- Previously worked with **MAMP stack** in a professional internship setting
+- Previously worked with **MAMP stack** in a professional internship setting.
 - Currently exploring **LLM APIs, RAG pipelines, and AI-powered apps**
 - Primary languages: **JavaScript** everywhere, **Java** for DSA
 - I write code that ships, not just code that works
